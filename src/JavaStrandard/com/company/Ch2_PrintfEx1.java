@@ -1,8 +1,8 @@
-package com.company;
+package JavaStrandard.com.company;
 
-public class Main {
+class Ch2_PrintfEx1 {
 
-    public static void main(String[] args) {
+    public static void main5(String[] args) {
         byte  b = 1;
         short s = 2;
         char  c = 'A';
